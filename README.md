@@ -89,3 +89,5 @@ V.G.K Hospitals Group | Mar 2021
 **ServiceNow Developer Training**  
 *ServiceNow Certification* | Oct 2019 – Mar 2020  
 - Certified in Madrid and New York releases of ServiceNow.
+
+theme: jekyll-theme-minimal
