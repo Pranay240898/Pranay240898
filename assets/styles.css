@@ -1,0 +1,18 @@
+body {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* White text */
+  }
+  
+  /* Customize links to make them more readable */
+  a {
+    color: #4dabf7; /* Light blue links */
+  }
+  
+  a:hover {
+    color: #82caff; /* Hover color for links */
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* White headings */
+  }
+  
