@@ -1,3 +1,5 @@
 title: "Pranay's Portfolio"
 description: "My Developer Portfolio"
 theme: jekyll-theme-minimal
+background-color: "#121212"
+text-color: "#ffffff"
