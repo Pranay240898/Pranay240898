@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/styles.css">
 </head>
 # Pranay's Portfolio
 
