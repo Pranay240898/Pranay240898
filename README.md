@@ -1,95 +1,62 @@
-<head>
-<link rel="stylesheet" href="assets/css/styles.css">
-</head>
-# Pranay's Portfolio
+Pranay Godi
+📍 Coppell, Texas, USA
+📞 +1 (541) 908-7825 | ✉️ pranaygodi@gmail.com | 🌐 LinkedIn | 🌐 GitHub
 
-### Professional Summary
-Java Software Engineer with over 3 years of experience in software development and cloud integration. Expertise in building scalable, high-performance applications using Java, Spring Boot, DropWizard, and Vue.js. Proven ability to deliver measurable improvements in cloud adoption, deployment times, and client onboarding. Skilled in AWS, Azure, and CI/CD implementation.
+About Me
+I’m a Full-Stack Software Engineer with 3+ years of experience designing and deploying scalable, high-quality software solutions. My expertise spans Java, Spring Boot, Node.js, and Angular.js, as well as cloud platforms like AWS and Azure. I thrive in Agile environments, enjoy solving complex technical challenges, and am passionate about creating innovative software that delivers value to users.
 
----
+Technical Skills
+Programming Languages
+Proficient: Java, Python, JavaScript, TypeScript, Ruby, C, C++
+Frameworks & Libraries: Spring Boot, Hibernate, React.js, Angular.js, Node.js, Vue.js, Express.js
+Databases: MySQL, PostgreSQL, MongoDB, Cassandra, DB2
+Cloud Platforms: AWS (EC2, S3, Lambda), Microsoft Azure
+DevOps Tools: Docker, Kubernetes, Jenkins, Git
+Testing Tools: Selenium WebDriver, Jest, JUnit
+Operating Systems: Linux, Unix, MacOS
+Work Experience
+Software Engineer
+Tek International | Fort Worth, Texas
+Jun 2023 – Present
 
-### Education
-**Master of Engineering in Computer Science**  
-*Oregon State University, Corvallis, OR*  
+Built scalable full-stack applications using Java Spring Boot and Vue.js, integrating with AWS and Azure, resulting in a 40% increase in cloud adoption.
+Created AI-driven cloud automation tools leveraging GPT models, reducing time-to-value by 50%.
+Collaborated in Agile teams to ensure timely delivery of high-quality features through sprint planning, retrospectives, and daily stand-ups.
+Software Engineer Intern
+Gainwell Technologies | Dallas, Texas
+Sep 2022 – Mar 2023
+
+Developed and maintained microservices using Spring Boot, Angular, and Node.js, achieving a 30% reduction in downtime.
+Enhanced user engagement by integrating Angular and Node.js components, increasing interactions by 25%.
+Optimized database queries to reduce retrieval times by 35% using advanced caching strategies.
+Software Engineer
+Korbyt | Hyderabad, India
+Jun 2020 – May 2021
+
+Developed a workspace management platform using React.js and .NET Framework, improving efficiency by 40%.
+Designed robust backend systems with C# and Blazor, ensuring scalability and reliability.
+Maintained Linux system operations with 99.8% uptime, ensuring seamless service delivery.
+Projects
+AI-Powered Chatbot for Cloud Services
+Description: Developed an AI chatbot using Python and GPT models to streamline client onboarding and personalize cloud services.
+Impact: Reduced onboarding time by 50%, improving customer satisfaction.
+Workspace Management System
+Description: Built an interactive office floorplan application using React.js and .NET, enabling employees to book office spaces.
+Impact: Enhanced workspace utilization by 40%.
+CI/CD Pipeline Optimization
+Description: Automated deployment pipelines using Jenkins, Docker, and Kubernetes.
+Impact: Reduced deployment time by 50%, ensuring reliable and scalable releases.
+Education
+Master of Engineering in Computer Science
+Oregon State University | Corvallis, Oregon
 Sep 2021 – Jun 2023
 
-**Bachelor of Technology in Computer Science**  
-*CVR College of Engineering, Hyderabad, India*  
+Bachelor of Technology in Computer Science
+CVR College of Engineering | Hyderabad, India
 Aug 2016 – May 2020
 
----
-
-### Work Experience
-
-#### Software Engineer  
-*Tek Info Services, Fort Worth, Texas*  
-**Jun 2023 – Present**
-- Developed scalable RESTful APIs using Java Spring Boot, increasing customer cloud adoption by 40%.
-- Automated cloud resource provisioning with Spring Boot and DropWizard, reducing deployment times by 50%.
-- Streamlined client onboarding processes, reducing time by 80% with Java and Vue.js.
-- Implemented CI/CD pipelines, maintaining 99.9% application uptime.
-- Optimized system performance and ensured high availability using Docker and Kubernetes.
-- Improved system reliability and reduced incident response times by 20% using the ELK Stack.
-
-#### Software Engineer  
-*Gainwell Technologies, Dallas, Texas*  
-**Sep 2022 – Jun 2023**
-- Developed microservices with Java Spring Boot and DropWizard, reducing service downtime by 30%.
-- Enhanced front-end user experience with Angular and Node.js, increasing engagement by 25%.
-- Optimized database performance across MySQL, MongoDB, and PostgreSQL, reducing query response times by 35%.
-- Reduced message delivery latency by 40% using Apache Kafka and WebSocket.
-- Automated builds and deployments using Jenkins, improving team productivity by 50%.
-
-#### Software Analyst/Engineer  
-*V.G.K Hospitals Group, Telangana, India*  
-**Jan 2019 – May 2021**
-- Engineered ETL pipelines with Java, Kafka, and Maven, cutting data processing times by 50%.
-- Reduced data retrieval times by 40% and improved system efficiency by implementing distributed storage solutions.
-
----
-
-### Technical Skills
-**Languages:** C, C++, Python, Java, JavaScript, TypeScript, SQL  
-**Frameworks:** Spring Boot, DropWizard, Hibernate, Vue.js, Angular, React.js, Node.js, Django  
-**Databases:** MySQL, MongoDB, PostgreSQL, Cassandra, Oracle, DB2  
-**Cloud Platforms:** AWS (EC2, S3, Lambda), Azure  
-**DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Maven, Git, Postman  
-**Monitoring & Logging:** ELK Stack, Apache Kafka  
-**Web Technologies:** HTML, CSS, JavaScript  
-**Testing:** Selenium WebDriver, TestNG  
-**Operating Systems:** Unix/Linux  
-**Tools:** Jira, Git
-
----
-
-### Projects
-
-#### [Blog Review Website](https://github.com/Pranay240898/React-Blog)
-*Oregon State University | Apr 2023 - Jun 2023*  
-- Full-stack web application enabling users to create, share, and review blog content.
-- Features user authentication, content management, and social sharing.
-- Optimized performance and SEO, leading to a 30% increase in organic traffic.
-
-#### [Resident Service Portal](https://github.com/Pranay240898/resident-service-portal-main)
-*Oregon State University | Jan 2023 - Mar 2023*  
-- Web-based application for residents to submit maintenance requests and receive community updates.
-- Integrated real-time notifications, reducing maintenance response time by 50%.
-
-#### [J.P. Morgan Software Engineering Virtual Experience](https://github.com/Pranay240898/forage-jpmc-swe-task-3)
-*Forage | Aug 2024*  
-- Generated a live graph displaying a data feed for traders using JPMorgan Chase’s open-source library.
-
-#### [Goldman Sachs Software Engineering Virtual Experience]
-*Forage | Aug 2024*  
-- Identified security vulnerabilities and suggested improvements to enhance password protection for the company.
-
----
-
-### Activities and Leadership
-**Best Contributor Award**  
-V.G.K Hospitals Group | Mar 2021  
-
-**ServiceNow Developer Training**  
-*ServiceNow Certification* | Oct 2019 – Mar 2020  
-- Certified in Madrid and New York releases of ServiceNow.
-
+Certifications
+Microsoft Azure Fundamentals (AZ-900)
+AWS Certified Solutions Architect – Associate (In Progress)
+Contact
+Feel free to reach out to discuss potential opportunities or collaborations.
